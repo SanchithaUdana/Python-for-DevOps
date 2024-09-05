@@ -23,3 +23,9 @@ if age >= 18:
 else:
     print("You are not eligible to vote.")
 
+######################################################################
+
+# in python language indentation is must important. because,
+# python has not ending tag for denote the end of code block
+# but the bash scripting is not important the indentation,
+# because the bash scripting has start and ending tags
