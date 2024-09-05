@@ -24,6 +24,7 @@ print("Variable x value is ", x)
 print("Variable y value is ", y)
 print("Variable z value is ", z)
 
+# print the variable class/type
 print("Variable w is ", type(w))
 print("Variable x is ", type(x))
 print("Variable y is ", type(y))
